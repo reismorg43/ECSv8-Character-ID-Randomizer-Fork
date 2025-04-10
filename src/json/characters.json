@@ -147,7 +147,11 @@
 	"94":	{ "ReservedBy":	"Senpai-Star#5518" },		// Kirby
 	"95":	{ "ReservedBy":	"FruityStar#4494" },		// Bandana Waddle Dee
 
+	"96":	{ "ReservedBy":	"Morgan Reiss" },		// Crash Bandicoot
+
         "97":   { "ReservedBy": "FireNight097" },               // Neolix
+
+	"98":	{ "ReservedBy":	"Morgan Reiss" },		// Spyro The Dragon
 				
 	"99":	{ "ReservedBy":	"Jester Sam#0809" },		// C.H.C. Jester
 	
@@ -205,6 +209,8 @@
 	"244":	{ "ReservedBy": "SHADED/Finality" },		// Misery
 
 	"245":	{ "ReservedBy": "SHADED/Finality" },		// Aki/Akito
+
+	"248":	{ "ReservedBy": "Morgan Reiss" },		// Om Nom
 	
 	"255":	{ "ReservedBy": "TimerBunneh" }			// Sage (ES Port
 }
